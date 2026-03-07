@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "5f48eaf140e9cfd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc4cee0a1fb85fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de634042580ac1b8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c577ec57476e2160",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf4eed59ad9bcfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0419349e4808a984",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "ed1af200893b9db2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "d2b31229b1f07534",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "05658a667dd1f7a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b57d876f8b5161",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b168e4b16f654860",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "48e063d93174c38c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "18a90037a490040b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ec12be53be15fbe1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ef83d3ac0dc6f15d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "de634042580ac1b8",
+  "lastOpenFiles": [
+    "10. no-signal-tv.md",
+    "9. Frozen Terminal.md",
+    "8. Sombras en el archivo - eset.md",
+    "images/57.png",
+    "images/56.png",
+    "images/55.png",
+    "images/Pasted image 20260307115657.png",
+    "images/54.png",
+    "images/53.png",
+    "images/52.png",
+    "images/51.png",
+    "images/50.png",
+    "images/49.png",
+    "7. LostData - Forensics - eset.md",
+    "8. Sombras en el archivo - eset",
+    "8. Sombras en el archivo - eset",
+    "6. Ecos de la Bastilla - Forensics - eset.md",
+    "1. Calculator.md",
+    "2. Radio Telescope - Misc ctf.bitskrieg.in.md",
+    "4. Invoice-generator - CTF LA.md",
+    "3. rust-proxy ctf.bitskrieg.in.md",
+    "5. rev-ooo - CTF LA.md",
+    "images/Sin confirmar 947436.crdownload",
+    "images/Sin confirmar 439866.crdownload",
+    "images"
+  ]
+}
